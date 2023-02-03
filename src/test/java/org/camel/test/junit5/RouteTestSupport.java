@@ -1,4 +1,4 @@
-package org.camel.test;
+package org.camel.test.junit5;
 
 import org.junit.jupiter.api.BeforeEach;
 
